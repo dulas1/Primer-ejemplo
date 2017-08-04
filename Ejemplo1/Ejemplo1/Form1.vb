@@ -12,6 +12,7 @@
     Private Sub btn2_Click(sender As Object, e As EventArgs) Handles btn2.Click
 
         lbox1.Items.Add(txt1.Text)
+        MessageBox.Show("haz agregado una nueva palabra")
 
     End Sub
 

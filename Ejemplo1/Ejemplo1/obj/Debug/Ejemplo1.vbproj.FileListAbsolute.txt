@@ -1,0 +1,11 @@
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.xml
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.vbprojResolveAssemblyReference.cache
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Resources.resources
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.vbproj.GenerateResource.Cache
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.xml
+C:\Users\PcEsc\Documents\GitHub\Primer-ejemplo\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb

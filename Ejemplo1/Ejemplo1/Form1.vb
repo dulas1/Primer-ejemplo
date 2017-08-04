@@ -14,7 +14,8 @@
         lbox1.Items.Add(txt1.Text)
         MessageBox.Show("haz agregado una nueva palabra")
         'comentando desde la pagina web de github
-
+        'se ha modificado el diseño
+        'hola
     End Sub
 
 End Class
